@@ -1,2 +1,6 @@
 # Ignore IDEA setting
 .idea/*
+
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
