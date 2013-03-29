@@ -1,0 +1,7 @@
+parameters:
+#    moc_weather.example.class: Moc\WeatherBundle\Example
+
+services:
+#    moc_weather.example:
+#        class: %moc_weather.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

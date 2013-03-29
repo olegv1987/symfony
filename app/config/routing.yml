@@ -1,0 +1,8 @@
+moc_weather:
+    resource: "@MocWeatherBundle/Resources/config/routing.yml"
+    prefix:   /
+
+acme_hello:
+    resource: "@AcmeHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,3 @@
+moc_weather_homepage:
+    pattern:  /weather/{city}
+    defaults: { _controller: MocWeatherBundle:Default:index }
